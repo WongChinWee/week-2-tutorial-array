@@ -10,6 +10,12 @@
 //main function section 
 int main(){
     //write here your program
+    
+    sum = sum + value[5];
+    
+    scanf(" %f", averageValue[5]);
+    
+    printf("Average value is %f", averageValue[5]);
 
 
     return 0;
